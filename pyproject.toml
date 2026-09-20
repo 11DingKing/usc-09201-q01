@@ -1,7 +1,7 @@
 [project]
 name = "usc_09201_01"
 version = "0.1.0"
-description = "林地权属版本账服务基础"
+description = "林地权属版本账服务"
 requires-python = ">=3.11"
 
 [tool.unittest]
